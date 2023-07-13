@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="smartpark">SmartPark</string>
+    <string name="hour">Hour</string>
+    <string name="light1">Light</string>
+    <string name="off1">Off</string>
+    <string name="light2">Light</string>
+    <string name="khu_v_c_1">Khu vực 1</string>
+    <string name="off2">Off</string>
+    <string name="khu_v_c_2">Khu vực 2</string>
+    <string name="shot_view">Shot View</string>
+    <string name="time_on">Time On</string>
+    <string name="time_off">Time Off</string>
+    <string name="light">light1</string>
+    <string name="off3">off</string>
+</resources>
